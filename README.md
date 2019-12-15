@@ -7,3 +7,5 @@ Some of the algorithms/subjects on the scripts are Chi_Square test, p-value, bet
 
 The scripts use the Bandits problem as a statistic problem and use the scipy library for statistic functions. All of these encapsulated on a Click-Through-Rate problem environment with Bernouilli distribution.
 
+![Bandit Trials](/graphs/bandit_trials.png)
+![Chi-Square Test](/graphs/chi_sqr.png)
